@@ -1,6 +1,6 @@
 # Bear Custom Font
 
-Bear does not support custom fonts yet. However, you can replace any default fonts with a custom one by swapping its `.theme` files.
+Bear does not support custom fonts yet. However, you can replace any default font with a custom one by swapping its `.theme` file.
 
 The provided [Menlo.theme](./Menlo.theme) file replaces the default Menlo font with [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 
